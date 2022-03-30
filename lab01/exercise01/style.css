@@ -9,3 +9,12 @@ body {
 /*
 Add some style blocks below this line to style the card.
 */
+body {
+    
+        box-sizing: border-box;
+        border: solid 1px #CCC; 
+        width: 53vh;
+        height: 60vh;   
+        padding: 10px;
+      
+}
